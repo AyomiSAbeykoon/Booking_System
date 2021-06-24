@@ -1,0 +1,6 @@
+{
+    "UserManagementModule": true,
+    "BusManagementModule": true,
+    "RouteManagementModule": true,
+    "AppointmentManagementModule": true
+}

@@ -1,0 +1,13 @@
+{
+    "name": "BusManagementModule",
+    "alias": "busmanagementmodule",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\BusManagementModule\\Providers\\BusManagementModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

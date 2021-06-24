@@ -1,0 +1,13 @@
+{
+    "name": "AppointmentManagementModule",
+    "alias": "appointmentmanagementmodule",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\AppointmentManagementModule\\Providers\\AppointmentManagementModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

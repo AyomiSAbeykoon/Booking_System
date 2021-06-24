@@ -1,0 +1,13 @@
+{
+    "name": "RouteManagementModule",
+    "alias": "routemanagementmodule",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\RouteManagementModule\\Providers\\RouteManagementModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
